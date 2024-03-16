@@ -1,0 +1,2 @@
+# ditionary
+dic={"key":"value"
